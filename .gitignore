@@ -1,3 +1,5 @@
 *.keras
 *.nc
 shared/
+.ipynb_checkpoints/
+sst_difference.csv
